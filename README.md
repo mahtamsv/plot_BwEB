@@ -29,6 +29,5 @@ plot_BwEB(data, err, colors, 'title','Example plot','avg',1,'fontsize',15,...
         'xlabel','Seasons', 'XTickLabel', XTickLabel)
 ```
 
-Note that only the first three inputs (data, err and colors) are manadatory and the rest are optional. 
-
+Only the first three inputs (data, err and colors) are manadatory and the rest are optional. 
 Please refer to `plot_BwEB.m` for more information. 
