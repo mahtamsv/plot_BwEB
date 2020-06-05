@@ -10,6 +10,7 @@ Here is an example:
 
 ![](example_plot.png)
   
+## Sample usage
 code{
 data = [52, 65, 98, 90; 78, 44, 80, 68; 50, 59, 55, 85];
 err = [5, 4, 5, 2; 3, 3, 2, 3; 4, 3, 5, 2]; 
