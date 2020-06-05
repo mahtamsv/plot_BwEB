@@ -8,4 +8,5 @@ The error bars in the average grouped bars (with x-axis tick label as
 
 Here is an example: 
 
+![](example_plot.png)
   
